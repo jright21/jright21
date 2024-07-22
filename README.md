@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @jright21
-- 👀 I’m interested in football..⚽⚽
-- 🌱 I’m currently learning Cybersecurity and Quantum Computing(soon)
-- 💞️ I’m looking to collaborate on anything interesting..
-- 📫 How to reach me ... just dm me here.
-- 😄 Pronouns: ... Without any doubt Male (He/Him)
-- ⚡ Fun fact: ... I am chubby..🧒
+ <h2 align="center"> Hi👋, I’m <b>@jright21</h2></b>
+<h3 align="center">currently learning Cybersecurity and Quantum Computing(soon)</h3>
+<h4 align="center">Try to Play Football..⚽⚽</h4>
 
 <!---
 jright21/jright21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
